@@ -1,6 +1,7 @@
 # NLP_ex_3
 
-NLP Exercise Exercise 3 for NLP UPF 2025 class Author: Júlia Malet
+NLP Exercise Exercise 3 for NLP UPF 2025 class 
+Author: Júlia Malet
 
 CODE
 
